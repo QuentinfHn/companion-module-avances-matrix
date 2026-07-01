@@ -7,8 +7,8 @@
 	"description": "Control an Avances video/signal matrix switcher",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/QuentinfHn/avances-matrix.git",
-	"bugs": "https://github.com/QuentinfHn/avances-matrix/issues",
+	"repository": "git+https://github.com/QuentinfHn/companion-module-avances-matrix.git",
+	"bugs": "https://github.com/QuentinfHn/companion-module-avances-matrix/issues",
 	"maintainers": [
 		{
 			"name": "Quentin Fabrie",

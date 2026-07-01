@@ -16,7 +16,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/QuentinfHn/avances-matrix.git"
+		"url": "git+https://github.com/QuentinfHn/companion-module-avances-matrix.git"
 	},
 	"engines": {
 		"node": "^22.20",
